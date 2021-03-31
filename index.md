@@ -1,5 +1,5 @@
-[Department of Economics](http://www.google.com/url?q=http%3A%2F%2Fwww.brown.edu%2FDepartments%2FEconomics%2F&sa=D&sntz=1&usg=AFQjCNGzxS1UUD4P11k2vsOZshkK4c56og)
-[Brown University](http://www.google.com/url?q=http%3A%2F%2Fwww.brown.edu%2F&sa=D&sntz=1&usg=AFQjCNGlHFwueacxk_vHrj0PCwm3l3kmlQ)
+[Department of Economics](https://www.google.com/url?q=http%3A%2F%2Fwww.brown.edu%2FDepartments%2FEconomics%2F&sa=D&sntz=1&usg=AFQjCNGzxS1UUD4P11k2vsOZshkK4c56og)
+[Brown University](https://www.google.com/url?q=http%3A%2F%2Fwww.brown.edu%2F&sa=D&sntz=1&usg=AFQjCNGlHFwueacxk_vHrj0PCwm3l3kmlQ)
 matthew_turner@brown.edu
 
 ## Welcome to GitHub Pages
