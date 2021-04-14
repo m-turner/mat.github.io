@@ -1,7 +1,7 @@
 # MT list stata and GIS filetypes#
 ##################################
-*.zip
-*.7z
+.zip
+.7z
 
 # OS generated files #
 ######################
